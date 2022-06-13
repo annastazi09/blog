@@ -1,29 +1,45 @@
-<mxfile host="app.diagrams.net" modified="2022-06-13T05:54:21.045Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="P88H3f56PblWLz7SLYQL" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-13T05:57:21.596Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="mefgOAqVsq3sR38kO2-6" version="19.0.3" type="github">
   <diagram id="6IpWRTOvNhz4fQDFHxwE" name="Page-1">
-    <mxGraphModel dx="1422" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2272" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="fXu-zx2hqorw0dzWZYp2-2" value="Idea (SEO)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="70" y="460" width="180" height="180" as="geometry" />
+          <mxGeometry x="-20" y="370" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="fXu-zx2hqorw0dzWZYp2-3" value="Game Designer (Confluence-ASANA-Slack)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fXu-zx2hqorw0dzWZYp2-4" value="Illustrators (Figma-ASANA-Slack)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="460" width="120" height="60" as="geometry" />
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-4" value="Illustrators team (Figma-ASANA-Slack)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fXu-zx2hqorw0dzWZYp2-5" value="Animators (Asana-Slack)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-5" value="Animators team(Asana-Slack)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fXu-zx2hqorw0dzWZYp2-6" value="Sound (Asana-Slack)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-6" value="Sound team (Asana-Slack)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fXu-zx2hqorw0dzWZYp2-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-7" value="Translators team (Asana-Slack)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fXu-zx2hqorw0dzWZYp2-8" value="Developers (GitLab-Asana-Slack)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fXu-zx2hqorw0dzWZYp2-2" target="fXu-zx2hqorw0dzWZYp2-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="460" as="sourcePoint" />
+            <mxPoint x="270" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="70" y="200" />
+              <mxPoint x="370" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="fXu-zx2hqorw0dzWZYp2-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="365" y="370" as="sourcePoint" />
+            <mxPoint x="580" y="400" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
