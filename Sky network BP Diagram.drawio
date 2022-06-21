@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T09:49:03.275Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="H5Pf-imxwpUvfhx13JBM" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-21T12:41:09.677Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="nGxzTtQWLP5KiseMVA62" version="20.0.1" type="github">
   <diagram id="6IpWRTOvNhz4fQDFHxwE" name="Page-1">
-    <mxGraphModel dx="3093" dy="1200" grid="1" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2594" dy="933" grid="1" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -198,100 +198,88 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fXu-zx2hqorw0dzWZYp2-85" value="Create &lt;b&gt;Task&lt;/b&gt;/&lt;b&gt;Bug &lt;/b&gt;in Asana (&lt;b&gt;Open&lt;/b&gt;)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="1210" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="1232" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fXu-zx2hqorw0dzWZYp2-86" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="fXu-zx2hqorw0dzWZYp2-85" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1440" y="640" as="sourcePoint" />
-            <mxPoint x="1440" y="590" as="targetPoint" />
+            <mxPoint x="1462" y="640" as="sourcePoint" />
+            <mxPoint x="1462" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fXu-zx2hqorw0dzWZYp2-87" value="New Issue in Gitab" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="1440" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="1462" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fXu-zx2hqorw0dzWZYp2-88" value="&lt;i&gt;Unito Sync&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1345" y="570" width="70" height="20" as="geometry" />
+          <mxGeometry x="1367" y="570" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fXu-zx2hqorw0dzWZYp2-90" value="&lt;i&gt;Zapier sync&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="770" y="40" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fXu-zx2hqorw0dzWZYp2-91" value="Pull Request in Gitlab" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="1670" y="560" width="120" height="60" as="geometry" />
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-91" value="Group merge Request in Gitlab" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1692" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fXu-zx2hqorw0dzWZYp2-92" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fXu-zx2hqorw0dzWZYp2-87" target="fXu-zx2hqorw0dzWZYp2-91" edge="1">
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-92" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.012;exitY=0.509;exitDx=0;exitDy=0;entryX=0.51;entryY=1.044;entryDx=0;entryDy=0;exitPerimeter=0;entryPerimeter=0;" parent="1" source="dabtLC075DSBV3i54uBR-2" target="fXu-zx2hqorw0dzWZYp2-91" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1210" y="560" as="sourcePoint" />
-            <mxPoint x="1260" y="510" as="targetPoint" />
+            <mxPoint x="1232" y="560" as="sourcePoint" />
+            <mxPoint x="1282" y="510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1753" y="731" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fXu-zx2hqorw0dzWZYp2-93" value="&lt;i style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Unito Sync&lt;/i&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1580" y="567" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="fXu-zx2hqorw0dzWZYp2-95" value="Task move to ASANA( Dev Review)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="1890" y="560" width="130" height="60" as="geometry" />
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-95" value="current Buid task move to ASANA( Ready for Testing)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1912" y="560" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fXu-zx2hqorw0dzWZYp2-96" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fXu-zx2hqorw0dzWZYp2-91" target="fXu-zx2hqorw0dzWZYp2-95" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1480" y="520" as="sourcePoint" />
-            <mxPoint x="1530" y="470" as="targetPoint" />
+            <mxPoint x="1502" y="520" as="sourcePoint" />
+            <mxPoint x="1552" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fXu-zx2hqorw0dzWZYp2-97" value="&lt;i style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Unito Sync&lt;/i&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1810" y="567" width="80" height="30" as="geometry" />
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-99" value="task move to&lt;b&gt; &quot;Ready for testing&quot;&lt;/b&gt; in ASANA&amp;nbsp;&lt;b&gt;(Q&amp;amp;A)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1902" y="840" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fXu-zx2hqorw0dzWZYp2-99" value="move to QA in testing and start Testing &lt;b&gt;(Q&amp;amp;A)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="1880" y="840" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="fXu-zx2hqorw0dzWZYp2-100" value="&lt;b style=&quot;&quot;&gt;Verify by TeamLead (Prepare builds and move tasks to&amp;nbsp; Ready for Testing status)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="1840" y="670" width="240" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="fXu-zx2hqorw0dzWZYp2-102" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="fXu-zx2hqorw0dzWZYp2-95" edge="1">
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-103" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.438;exitY=1.044;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" source="fXu-zx2hqorw0dzWZYp2-95">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1350" y="550" as="sourcePoint" />
-            <mxPoint x="1955" y="680" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fXu-zx2hqorw0dzWZYp2-103" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1950" y="760" as="sourcePoint" />
-            <mxPoint x="1950" y="850" as="targetPoint" />
+            <mxPoint x="1972" y="760" as="sourcePoint" />
+            <mxPoint x="1969" y="850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fXu-zx2hqorw0dzWZYp2-105" value="&lt;b&gt;Success&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1915" y="970" width="80" height="80" as="geometry" />
+          <mxGeometry x="1937" y="970" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fXu-zx2hqorw0dzWZYp2-106" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="fXu-zx2hqorw0dzWZYp2-99" target="fXu-zx2hqorw0dzWZYp2-105" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1590" y="710" as="sourcePoint" />
-            <mxPoint x="1640" y="660" as="targetPoint" />
+            <mxPoint x="1612" y="710" as="sourcePoint" />
+            <mxPoint x="1662" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fXu-zx2hqorw0dzWZYp2-108" value="&lt;b&gt;If&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1960" y="930" width="20" height="20" as="geometry" />
+          <mxGeometry x="1982" y="930" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fXu-zx2hqorw0dzWZYp2-109" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="fXu-zx2hqorw0dzWZYp2-105" target="fXu-zx2hqorw0dzWZYp2-110" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1590" y="710" as="sourcePoint" />
-            <mxPoint x="2090" y="1010" as="targetPoint" />
+            <mxPoint x="1612" y="710" as="sourcePoint" />
+            <mxPoint x="2112" y="1010" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fXu-zx2hqorw0dzWZYp2-110" value="&lt;b&gt;Done&lt;/b&gt;/&lt;b&gt;Release&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="2090" y="980" width="120" height="60" as="geometry" />
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-110" value="&lt;b&gt;Closed&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="2112" y="980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fXu-zx2hqorw0dzWZYp2-111" value="&lt;b&gt;yes&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2010" y="980" width="40" height="20" as="geometry" />
+          <mxGeometry x="2032" y="980" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fXu-zx2hqorw0dzWZYp2-112" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="fXu-zx2hqorw0dzWZYp2-105" target="fXu-zx2hqorw0dzWZYp2-85" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1610" y="710" as="sourcePoint" />
-            <mxPoint x="1660" y="660" as="targetPoint" />
+            <mxPoint x="1632" y="710" as="sourcePoint" />
+            <mxPoint x="1682" y="660" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1270" y="1010" />
+              <mxPoint x="1292" y="1010" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fXu-zx2hqorw0dzWZYp2-113" value="&lt;b&gt;no&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1850" y="990" width="30" height="20" as="geometry" />
+          <mxGeometry x="1872" y="990" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fXu-zx2hqorw0dzWZYp2-115" value="&lt;b&gt;TeamLead&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" parent="1" vertex="1">
           <mxGeometry x="300" y="10" width="120" height="60" as="geometry" />
@@ -314,40 +302,26 @@
         <mxCell id="fXu-zx2hqorw0dzWZYp2-118" value="&lt;b&gt;advised&amp;nbsp;technical implementation&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="30" y="10" width="210" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fXu-zx2hqorw0dzWZYp2-119" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;size=0;" parent="1" vertex="1">
-          <mxGeometry x="840" y="530" width="50" height="120" as="geometry" />
+        <mxCell id="dabtLC075DSBV3i54uBR-1" value="&lt;i&gt;Unito Sync&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1892" y="740" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fXu-zx2hqorw0dzWZYp2-122" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
-          <mxGeometry x="810" y="585" width="30" height="10" as="geometry" />
+        <mxCell id="dabtLC075DSBV3i54uBR-2" value="Issues move on own flow in Gitlab and divided into technical tasks" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1582" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fXu-zx2hqorw0dzWZYp2-123" value="Development (Client)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" parent="1" vertex="1">
-          <mxGeometry x="890" y="490" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="fXu-zx2hqorw0dzWZYp2-124" value="Development (Server)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="890" y="610" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="fXu-zx2hqorw0dzWZYp2-125" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fXu-zx2hqorw0dzWZYp2-123" target="fXu-zx2hqorw0dzWZYp2-85" edge="1">
+        <mxCell id="dabtLC075DSBV3i54uBR-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.012;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fXu-zx2hqorw0dzWZYp2-87" target="dabtLC075DSBV3i54uBR-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="790" y="580" as="sourcePoint" />
-            <mxPoint x="840" y="530" as="targetPoint" />
+            <mxPoint x="1472" y="810" as="sourcePoint" />
+            <mxPoint x="1522" y="760" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1160" y="520" />
-              <mxPoint x="1270" y="520" />
+              <mxPoint x="1522" y="738" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fXu-zx2hqorw0dzWZYp2-126" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.486;exitY=-0.042;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="fXu-zx2hqorw0dzWZYp2-124" target="fXu-zx2hqorw0dzWZYp2-85" edge="1">
+        <mxCell id="dabtLC075DSBV3i54uBR-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.002;exitY=0.549;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="fXu-zx2hqorw0dzWZYp2-77" target="fXu-zx2hqorw0dzWZYp2-85">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="950" y="580" as="sourcePoint" />
-            <mxPoint x="1000" y="530" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="958" y="590" />
-              <mxPoint x="1160" y="590" />
-            </Array>
+            <mxPoint x="1090" y="650" as="sourcePoint" />
+            <mxPoint x="1140" y="600" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="fXu-zx2hqorw0dzWZYp2-127" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2130" y="670" width="190" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
