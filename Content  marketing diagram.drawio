@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-12T10:29:24.768Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" version="20.8.4" etag="UmmTCLcFBMzDVbzYou51" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-12T10:47:19.998Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" version="20.8.4" etag="A31ldXpQwmEibpU-HXwI" type="github">
   <diagram id="W-XU7vy2OOlPiPGa_6Xz" name="Сторінка-1">
-    <mxGraphModel dx="2947" dy="2353" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2417" dy="2057" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -74,10 +74,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xw8NrH_wL4yB2DSa02c_-31" value="&lt;b&gt;Goals&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="750" width="140" height="240" as="geometry" />
+          <mxGeometry x="-100" y="750" width="140" height="250" as="geometry" />
         </mxCell>
         <mxCell id="xw8NrH_wL4yB2DSa02c_-32" value="&lt;b&gt;Indicators&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="320" y="750" width="140" height="240" as="geometry" />
+          <mxGeometry x="320" y="750" width="140" height="250" as="geometry" />
         </mxCell>
         <mxCell id="xw8NrH_wL4yB2DSa02c_-33" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;entryX=0.418;entryY=-0.009;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="xw8NrH_wL4yB2DSa02c_-31">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
