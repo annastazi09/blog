@@ -1,0 +1,341 @@
+<mxfile host="app.diagrams.net" modified="2023-05-29T15:59:36.792Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="zMSmRhvvXOo7E33aiOQJ" version="21.3.5" type="github">
+  <diagram id="6IpWRTOvNhz4fQDFHxwE" name="Page-1">
+    <mxGraphModel dx="2059" dy="695" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-2" value="&lt;b&gt;New requirements (Steackholders, CEO)&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="-450" y="120" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-3" value="&lt;b&gt;Game Designers team&amp;nbsp;&lt;/b&gt; (Confluence-ASANA-Slack)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" parent="1" vertex="1">
+          <mxGeometry x="435" y="140" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-4" value="&lt;b&gt;Illustrators team&lt;/b&gt; (Figma-ASANA-Slack)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" parent="1" vertex="1">
+          <mxGeometry x="450" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-5" value="&lt;b&gt;Animators&lt;/b&gt; team(Asana-Slack)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
+          <mxGeometry x="310" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-6" value="Sound team (Asana-Slack)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+          <mxGeometry x="310" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-7" value="Translators team (Asana-Slack)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
+          <mxGeometry x="310" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="fXu-zx2hqorw0dzWZYp2-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="770" as="sourcePoint" />
+            <mxPoint x="550" y="630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="550" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="fXu-zx2hqorw0dzWZYp2-6" target="fXu-zx2hqorw0dzWZYp2-78" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="810" as="sourcePoint" />
+            <mxPoint x="560" y="590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.698;entryY=0.973;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="fXu-zx2hqorw0dzWZYp2-7" target="fXu-zx2hqorw0dzWZYp2-78" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="840" as="sourcePoint" />
+            <mxPoint x="586.2000000000003" y="608.22" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="590" y="910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fXu-zx2hqorw0dzWZYp2-4" target="fXu-zx2hqorw0dzWZYp2-78" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="755" y="500" as="sourcePoint" />
+            <mxPoint x="715" y="540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="715" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-22" value="&lt;b&gt;.scene files&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="435" y="665" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-23" value="&lt;b&gt;.ogg files&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="455" y="800" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-24" value="&lt;b&gt;.xls files&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="460" y="910" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-25" value="&lt;b&gt;&lt;i&gt;links to mockups in Figma&amp;nbsp;&lt;/i&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="435" y="540" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-26" value="Preppare description in Confluence" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="635" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fXu-zx2hqorw0dzWZYp2-3" target="fXu-zx2hqorw0dzWZYp2-26" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="665" y="100" as="sourcePoint" />
+            <mxPoint x="715" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-28" value="Create new page" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="775" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-29" value="Create New Task in Asana" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1025" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fXu-zx2hqorw0dzWZYp2-28" target="fXu-zx2hqorw0dzWZYp2-29" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="865" y="160" as="sourcePoint" />
+            <mxPoint x="915" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fXu-zx2hqorw0dzWZYp2-26" target="fXu-zx2hqorw0dzWZYp2-28" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="675" y="120" as="sourcePoint" />
+            <mxPoint x="725" y="70" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="695" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-34" value="Notification in Slack" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1195" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-35" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="fXu-zx2hqorw0dzWZYp2-29" target="fXu-zx2hqorw0dzWZYp2-34" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="955" y="250" as="sourcePoint" />
+            <mxPoint x="1005" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-37" value="Notification in Slack" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="625" y="285" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-54" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;" parent="1" source="fXu-zx2hqorw0dzWZYp2-78" target="fXu-zx2hqorw0dzWZYp2-77" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="775" y="570" as="sourcePoint" />
+            <mxPoint x="835" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-55" value="&lt;b&gt;Lead of Team(setup tasks in ASANA)&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="435" y="250" width="150" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-70" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fXu-zx2hqorw0dzWZYp2-55" target="fXu-zx2hqorw0dzWZYp2-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="205" y="510" as="sourcePoint" />
+            <mxPoint x="255" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-74" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fXu-zx2hqorw0dzWZYp2-55" target="fXu-zx2hqorw0dzWZYp2-37" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="165" y="580" as="sourcePoint" />
+            <mxPoint x="215" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-77" value="Developers (GitLab-Asana-Slack)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="875" y="560" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-78" value="&lt;b&gt;PM/BA (setup tasks in ASANA)&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="665" y="540" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-80" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="fXu-zx2hqorw0dzWZYp2-29" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="985" y="280" as="sourcePoint" />
+            <mxPoint x="745" y="550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1085" y="440" />
+              <mxPoint x="745" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-81" value="&lt;b&gt;task description link to Confluence&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="800" y="410" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-82" value="Notification in Slack" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1155" y="452" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-85" value="Create &lt;b&gt;Task&lt;/b&gt;/&lt;b&gt;Bug &lt;/b&gt;in Asana (&lt;b&gt;Open&lt;/b&gt;)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1155" y="561" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-86" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="fXu-zx2hqorw0dzWZYp2-85" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1385" y="641" as="sourcePoint" />
+            <mxPoint x="1385" y="591" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-87" value="New Issue in Gitab" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1385" y="561" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-88" value="&lt;i&gt;Unito Sync&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1290" y="571" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-90" value="&lt;i&gt;Zapier sync&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="915" y="40" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-91" value="Group merge Request in Gitlab" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1615" y="561" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-92" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.012;exitY=0.509;exitDx=0;exitDy=0;entryX=0.51;entryY=1.044;entryDx=0;entryDy=0;exitPerimeter=0;entryPerimeter=0;" parent="1" source="dabtLC075DSBV3i54uBR-2" target="fXu-zx2hqorw0dzWZYp2-91" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1010" y="561" as="sourcePoint" />
+            <mxPoint x="1060" y="511" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1531" y="732" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-95" value="&lt;b&gt;TeamLead &lt;/b&gt;prepare new issue in Gitlab for Release with release notes details" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="1835" y="561" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-96" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fXu-zx2hqorw0dzWZYp2-91" target="fXu-zx2hqorw0dzWZYp2-95" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1425" y="521" as="sourcePoint" />
+            <mxPoint x="1475" y="471" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-99" value="task move to&lt;b&gt; &quot;Ready for testing&quot;&lt;/b&gt; in ASANA&amp;nbsp;&lt;b&gt;(Q&amp;amp;A)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1680" y="690" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-103" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1750" y="620" as="sourcePoint" />
+            <mxPoint x="1750" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-105" value="&lt;b&gt;Success&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1715" y="971" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-106" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="fXu-zx2hqorw0dzWZYp2-99" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1390" y="711" as="sourcePoint" />
+            <mxPoint x="1755" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-108" value="&lt;b&gt;If&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1760" y="931" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-109" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="fXu-zx2hqorw0dzWZYp2-105" target="fXu-zx2hqorw0dzWZYp2-110" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1390" y="711" as="sourcePoint" />
+            <mxPoint x="1890" y="1011" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-110" value="&lt;b&gt;Closed&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="1890" y="981" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-111" value="&lt;b&gt;yes&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1810" y="981" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-112" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="fXu-zx2hqorw0dzWZYp2-105" target="fXu-zx2hqorw0dzWZYp2-85" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1410" y="711" as="sourcePoint" />
+            <mxPoint x="1460" y="661" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1070" y="1011" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-113" value="&lt;b&gt;no&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1650" y="991" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-115" value="&lt;b&gt;Technical Team Lead&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" parent="1" vertex="1">
+          <mxGeometry x="445" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-117" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="fXu-zx2hqorw0dzWZYp2-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="575" y="130" as="sourcePoint" />
+            <mxPoint x="500" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dabtLC075DSBV3i54uBR-1" value="&lt;i&gt;Unito Sync&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1680" y="650" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dabtLC075DSBV3i54uBR-2" value="Issues move on own flow in Gitlab and divided into technical tasks" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1360" y="701" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dabtLC075DSBV3i54uBR-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.012;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="fXu-zx2hqorw0dzWZYp2-87" target="dabtLC075DSBV3i54uBR-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1250" y="811" as="sourcePoint" />
+            <mxPoint x="1300" y="761" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1300" y="739" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dabtLC075DSBV3i54uBR-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.002;exitY=0.549;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="fXu-zx2hqorw0dzWZYp2-77" target="fXu-zx2hqorw0dzWZYp2-85" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1235" y="650" as="sourcePoint" />
+            <mxPoint x="1285" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dabtLC075DSBV3i54uBR-5" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="fXu-zx2hqorw0dzWZYp2-82" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1215" y="560" as="sourcePoint" />
+            <mxPoint x="1545" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dabtLC075DSBV3i54uBR-6" value="&lt;b&gt;Q&amp;amp;A moves tasks to &quot;In Testing&quot; (ASANA)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1680" y="830" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dabtLC075DSBV3i54uBR-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.467;exitY=1.011;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="dabtLC075DSBV3i54uBR-6" target="fXu-zx2hqorw0dzWZYp2-105" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2010" y="860" as="sourcePoint" />
+            <mxPoint x="2060" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KpAgJAWe9NCauuptB6li-1" value="&lt;i&gt;&lt;b&gt;.png in Asana and link to storage&lt;/b&gt;&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="435" y="520" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JSEa2vaJHXwGFsyHtMpE-1" value="Miro Board (Release planning)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="20" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JSEa2vaJHXwGFsyHtMpE-2" value="Asana (Managment)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="180" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JSEa2vaJHXwGFsyHtMpE-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fXu-zx2hqorw0dzWZYp2-2" target="JSEa2vaJHXwGFsyHtMpE-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="340" as="sourcePoint" />
+            <mxPoint x="170" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-360" y="45" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JSEa2vaJHXwGFsyHtMpE-4" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="JSEa2vaJHXwGFsyHtMpE-2" target="JSEa2vaJHXwGFsyHtMpE-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-150" y="120" as="sourcePoint" />
+            <mxPoint x="-100" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JSEa2vaJHXwGFsyHtMpE-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fXu-zx2hqorw0dzWZYp2-2" target="JSEa2vaJHXwGFsyHtMpE-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="290" as="sourcePoint" />
+            <mxPoint x="-230" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JSEa2vaJHXwGFsyHtMpE-6" value="&lt;b&gt;Create Epic&lt;/b&gt; - each epic is a new feature from Miro Release scope. Each Epic relates with Milestone from dependencies&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="-211" y="490" width="270" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JSEa2vaJHXwGFsyHtMpE-8" value="Split&amp;nbsp; Epic from related task to each team" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JSEa2vaJHXwGFsyHtMpE-9" value="&lt;b&gt;Create Release Milestone&lt;/b&gt; (each milestone consist of the Release scope of work [each feature from Milestone is Epic])" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="320" width="210" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="JSEa2vaJHXwGFsyHtMpE-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JSEa2vaJHXwGFsyHtMpE-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="300" as="sourcePoint" />
+            <mxPoint x="-80" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JSEa2vaJHXwGFsyHtMpE-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.459;exitY=0.99;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="JSEa2vaJHXwGFsyHtMpE-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="480" as="sourcePoint" />
+            <mxPoint x="-84" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
