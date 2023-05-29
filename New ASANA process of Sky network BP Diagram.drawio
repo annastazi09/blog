@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-05-29T15:59:36.792Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="zMSmRhvvXOo7E33aiOQJ" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-29T16:02:31.783Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="VydbdDu1dVkcJiDPylGc" version="21.3.5" type="github">
   <diagram id="6IpWRTOvNhz4fQDFHxwE" name="Page-1">
     <mxGraphModel dx="2059" dy="695" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="fXu-zx2hqorw0dzWZYp2-2" value="&lt;b&gt;New requirements (Steackholders, CEO)&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;shadow=1;" parent="1" vertex="1">
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-2" value="&lt;b&gt;New requirements (Steackholders, CEO)&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="-450" y="120" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="fXu-zx2hqorw0dzWZYp2-3" value="&lt;b&gt;Game Designers team&amp;nbsp;&lt;/b&gt; (Confluence-ASANA-Slack)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" parent="1" vertex="1">
@@ -287,13 +287,13 @@
         <mxCell id="KpAgJAWe9NCauuptB6li-1" value="&lt;i&gt;&lt;b&gt;.png in Asana and link to storage&lt;/b&gt;&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="435" y="520" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JSEa2vaJHXwGFsyHtMpE-1" value="Miro Board (Release planning)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="1">
+        <mxCell id="JSEa2vaJHXwGFsyHtMpE-1" value="Miro Board (Release planning)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="-190" y="20" width="220" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JSEa2vaJHXwGFsyHtMpE-2" value="Asana (Managment)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="1">
+        <mxCell id="JSEa2vaJHXwGFsyHtMpE-2" value="Asana (Managment)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="-190" y="180" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JSEa2vaJHXwGFsyHtMpE-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fXu-zx2hqorw0dzWZYp2-2" target="JSEa2vaJHXwGFsyHtMpE-1">
+        <mxCell id="JSEa2vaJHXwGFsyHtMpE-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fXu-zx2hqorw0dzWZYp2-2" target="JSEa2vaJHXwGFsyHtMpE-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="120" y="340" as="sourcePoint" />
             <mxPoint x="170" y="290" as="targetPoint" />
@@ -302,34 +302,34 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JSEa2vaJHXwGFsyHtMpE-4" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="JSEa2vaJHXwGFsyHtMpE-2" target="JSEa2vaJHXwGFsyHtMpE-1">
+        <mxCell id="JSEa2vaJHXwGFsyHtMpE-4" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="JSEa2vaJHXwGFsyHtMpE-2" target="JSEa2vaJHXwGFsyHtMpE-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-150" y="120" as="sourcePoint" />
             <mxPoint x="-100" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JSEa2vaJHXwGFsyHtMpE-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fXu-zx2hqorw0dzWZYp2-2" target="JSEa2vaJHXwGFsyHtMpE-2">
+        <mxCell id="JSEa2vaJHXwGFsyHtMpE-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="fXu-zx2hqorw0dzWZYp2-2" target="JSEa2vaJHXwGFsyHtMpE-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="120" y="290" as="sourcePoint" />
             <mxPoint x="-230" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JSEa2vaJHXwGFsyHtMpE-6" value="&lt;b&gt;Create Epic&lt;/b&gt; - each epic is a new feature from Miro Release scope. Each Epic relates with Milestone from dependencies&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+        <mxCell id="JSEa2vaJHXwGFsyHtMpE-6" value="&lt;b&gt;Create Epic&lt;/b&gt; - each epic is a new feature from Miro Release scope. Each Epic relates with Milestone from dependencies&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="-211" y="490" width="270" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="JSEa2vaJHXwGFsyHtMpE-8" value="Split&amp;nbsp; Epic from related task to each team" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JSEa2vaJHXwGFsyHtMpE-8" value="Split&amp;nbsp; Epic from related task to each team" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-130" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JSEa2vaJHXwGFsyHtMpE-9" value="&lt;b&gt;Create Release Milestone&lt;/b&gt; (each milestone consist of the Release scope of work [each feature from Milestone is Epic])" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+        <mxCell id="JSEa2vaJHXwGFsyHtMpE-9" value="&lt;b&gt;Create Release Milestone&lt;/b&gt; (each milestone consist of the Release scope of work [each feature from Milestone is Epic])" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="-180" y="320" width="210" height="89" as="geometry" />
         </mxCell>
-        <mxCell id="JSEa2vaJHXwGFsyHtMpE-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JSEa2vaJHXwGFsyHtMpE-2">
+        <mxCell id="JSEa2vaJHXwGFsyHtMpE-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="JSEa2vaJHXwGFsyHtMpE-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="130" y="300" as="sourcePoint" />
             <mxPoint x="-80" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JSEa2vaJHXwGFsyHtMpE-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.459;exitY=0.99;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="JSEa2vaJHXwGFsyHtMpE-9">
+        <mxCell id="JSEa2vaJHXwGFsyHtMpE-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.459;exitY=0.99;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="JSEa2vaJHXwGFsyHtMpE-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="480" as="sourcePoint" />
             <mxPoint x="-84" y="490" as="targetPoint" />
