@@ -1,0 +1,107 @@
+<mxfile host="app.diagrams.net" modified="2023-06-01T10:14:09.506Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="FXLUkMqNjtr35Oee3q4F" version="21.3.5" type="github">
+  <diagram id="6IpWRTOvNhz4fQDFHxwE" name="Page-1">
+    <mxGraphModel dx="1729" dy="989" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-77" value="Asana(&lt;b&gt;Animators_Hub&lt;/b&gt;)&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;shadow=1;gradientColor=#d5739d;" parent="1" vertex="1">
+          <mxGeometry x="800" y="290" width="154" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-78" value="&lt;b&gt;&lt;font color=&quot;#ff0080&quot;&gt;PM&lt;/font&gt; assigned tasks according to current Milestone&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="500" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="vcqUUj8RtbL1T8IDj6Kx-2" value="&lt;b&gt;&lt;font color=&quot;#ff0080&quot;&gt;Art Director&lt;/font&gt; assigned tasks according to project needs&lt;br&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b1ddf0;strokeColor=#10739e;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="630" width="149" height="149" as="geometry" />
+        </mxCell>
+        <mxCell id="vcqUUj8RtbL1T8IDj6Kx-13" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;noLabel=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
+          <mxGeometry x="400" y="540" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oM6ZGW8Rz1AFaY1xYlf1-1" value="Asana(&lt;b&gt;Animation&lt;/b&gt;)&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="850" width="154" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="oM6ZGW8Rz1AFaY1xYlf1-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="fXu-zx2hqorw0dzWZYp2-77">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="500" as="sourcePoint" />
+            <mxPoint x="640" y="720" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="335" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oM6ZGW8Rz1AFaY1xYlf1-4" value="" style="shape=message;html=1;outlineConnect=0;" vertex="1" parent="oM6ZGW8Rz1AFaY1xYlf1-3">
+          <mxGeometry width="20" height="14" relative="1" as="geometry">
+            <mxPoint x="-10" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oM6ZGW8Rz1AFaY1xYlf1-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="oM6ZGW8Rz1AFaY1xYlf1-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="525" y="780" as="sourcePoint" />
+            <mxPoint x="740" y="850" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="525" y="895" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oM6ZGW8Rz1AFaY1xYlf1-6" value="" style="shape=message;html=1;outlineConnect=0;" vertex="1" parent="oM6ZGW8Rz1AFaY1xYlf1-5">
+          <mxGeometry width="20" height="14" relative="1" as="geometry">
+            <mxPoint x="-10" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oM6ZGW8Rz1AFaY1xYlf1-11" value="Tasks will be splited by dependencies and assigned for Animators by &lt;b&gt;Art Director&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="717" y="550" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oM6ZGW8Rz1AFaY1xYlf1-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fXu-zx2hqorw0dzWZYp2-77" target="oM6ZGW8Rz1AFaY1xYlf1-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="980" y="560" as="sourcePoint" />
+            <mxPoint x="1030" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oM6ZGW8Rz1AFaY1xYlf1-14" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;noLabel=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="400" y="670" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oM6ZGW8Rz1AFaY1xYlf1-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="oM6ZGW8Rz1AFaY1xYlf1-1" target="oM6ZGW8Rz1AFaY1xYlf1-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1190" y="700" as="sourcePoint" />
+            <mxPoint x="1240" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oM6ZGW8Rz1AFaY1xYlf1-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="oM6ZGW8Rz1AFaY1xYlf1-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1270" y="590" as="sourcePoint" />
+            <mxPoint x="1180" y="590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1160" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oM6ZGW8Rz1AFaY1xYlf1-18" value="Finished task from Animators moved to column :&quot;Review&quot; and automatically assigned&amp;nbsp; to&amp;nbsp;&lt;b&gt;Art Director&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="550" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oM6ZGW8Rz1AFaY1xYlf1-20" value="Revieved Task Art director move to column &lt;b&gt;&quot;Ready for Sound&lt;/b&gt;&quot; which is automatically moved to Sound Team&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="551" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oM6ZGW8Rz1AFaY1xYlf1-22" value="&lt;b&gt;PM &lt;/b&gt;Reviewed tasks and if it already assigned to the &quot;Sound Team&quot; move them to column &quot;&lt;b&gt;Done&lt;/b&gt;&quot;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="1980" y="550" width="350" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oM6ZGW8Rz1AFaY1xYlf1-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oM6ZGW8Rz1AFaY1xYlf1-18" target="oM6ZGW8Rz1AFaY1xYlf1-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1670" y="480" as="sourcePoint" />
+            <mxPoint x="1720" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oM6ZGW8Rz1AFaY1xYlf1-24" value="&lt;i&gt;&lt;b&gt;PM/Art Director assigned tasks&lt;/b&gt;&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="350" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oM6ZGW8Rz1AFaY1xYlf1-25" value="&lt;i&gt;&lt;b&gt;PM/Art Director assigned tasks&lt;/b&gt;&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="850" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oM6ZGW8Rz1AFaY1xYlf1-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="oM6ZGW8Rz1AFaY1xYlf1-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1940" y="440" as="sourcePoint" />
+            <mxPoint x="1980" y="591" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
