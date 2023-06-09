@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-06-08T12:16:33.920Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="UjftHPBogM-faaW23YBm" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-09T09:21:06.558Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="KCgg5EnJCv1m8bgQROE4" version="21.3.5" type="github">
   <diagram id="6IpWRTOvNhz4fQDFHxwE" name="Page-1">
-    <mxGraphModel dx="1049" dy="596" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="926" dy="526" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="fXu-zx2hqorw0dzWZYp2-77" value="Asana(&lt;b&gt;Animators_Hub&lt;/b&gt;)&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;shadow=1;gradientColor=#d5739d;" parent="1" vertex="1">
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-77" value="Asana(&lt;b&gt;Game Design&lt;/b&gt;)&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;shadow=1;gradientColor=#d5739d;" parent="1" vertex="1">
           <mxGeometry x="800" y="290" width="154" height="90" as="geometry" />
         </mxCell>
         <mxCell id="fXu-zx2hqorw0dzWZYp2-78" value="&lt;b&gt;&lt;font color=&quot;#ff0080&quot;&gt;PM&lt;/font&gt; assigned tasks according to current Milestone&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;shadow=1;" parent="1" vertex="1">
@@ -100,6 +100,9 @@
             <mxPoint x="1940" y="440" as="sourcePoint" />
             <mxPoint x="1980" y="591" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="H_6kP9zhAVCkslabjDEE-1" value="" style="shape=stencil(fZbdcgIhDIWfZm8zQAg/17Z9j85U606tdqz9e/tmZ0c0uJ47xP0I5JwEBl59bp8/1kNwn6fj4W39M76ctgM/DCGM++36OJ50NPDjwKvN4bh+PR6+9i/z74/n6ctp9H74nlb4nbmSKZeJCu5vngmZ6jzzNAO7cX8FVKEsBuBKrgKg9oAE8gkCbLeUhEoEQKSUDZDLeWYRKIl8MEDRmHwfyBrBG6Amyu4+kDxxMoB3jhwgYu7TVAsVkFcWCs4CTBEoF4RctKeOxHIf8IXYpikHikAIf+MNUW94AGSSaoAoFIE3AlOyeWU+p2E5S9yfQZcQILVuQOwZdJNoS9Ls3wA5u2XZTIHECqeJ9kDpSaauRiNVcAY1QhdBzeLBli5WazpkSsBLV25uRaqWRyFawTQzRRIQYirJzq5atkBqLfouwqUxLBepthWb10vrWZY6UOAeyKCCtDV625mm9gmUC4Wc3VLJMMIE1BsA2FW9JraVlQB7n3c9oMKhCLEvIM1zBPZ25/umNQ1tVEC2G+fFCC8g398O2hNQuQlVu752DBfA+q0ptnqO5JFmeuIuo9DY7KjY71UxdJV4EntifPWorW++R/dC4t7V3DlIB5cHx2bc7eb3yvX//QNFp+bHDT/+Aw==);lineShape=1;" vertex="1" parent="1">
+          <mxGeometry x="1320.0022247765219" y="352.0144520386127" width="7.787566286859071" height="7.775393693929497" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
