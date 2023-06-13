@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T16:36:10.748Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="q8GE_sr9Mi7s2Wwcxwv2" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-13T14:56:37.376Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="dLo5BJmpqhFfIsjwGdUM" version="21.3.5" type="github">
   <diagram id="6IpWRTOvNhz4fQDFHxwE" name="Page-1">
     <mxGraphModel dx="1968" dy="1118" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
         <mxCell id="oM6ZGW8Rz1AFaY1xYlf1-20" value="Revieved Task moved to column &lt;b&gt;&quot;Done&lt;/b&gt;&quot; which is automatically assigned to Project Manager" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="1600" y="600" width="320" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="oM6ZGW8Rz1AFaY1xYlf1-22" value="&lt;b&gt;PM &lt;/b&gt;Reviewed tasks and if a task is related for current Milestone it will be assigned to the next teams, if its a task for project needs it should be marked with Epic &quot;&lt;b&gt;For Future Release&lt;/b&gt;&quot;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
+        <mxCell id="oM6ZGW8Rz1AFaY1xYlf1-22" value="&lt;b&gt;PM &lt;/b&gt;Reviewed tasks and if a task is related for current Milestone it will be assigned to the next teams, if its a task for project needs it should be marked with Epic &quot;&lt;b&gt;For Future Release&lt;/b&gt;&quot; or if its a task from Confluence it will be labeled&amp;nbsp; as &quot;Confluence&quot;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="2040" y="600" width="450" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oM6ZGW8Rz1AFaY1xYlf1-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oM6ZGW8Rz1AFaY1xYlf1-18" target="oM6ZGW8Rz1AFaY1xYlf1-20" edge="1">
@@ -83,7 +83,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="H_6kP9zhAVCkslabjDEE-9" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;noLabel=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="447" width="30" height="60" as="geometry" />
+          <mxGeometry x="1255" y="440" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H_6kP9zhAVCkslabjDEE-10" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;noLabel=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="1244" y="760" width="30" height="60" as="geometry" />
@@ -105,6 +105,42 @@
         </mxCell>
         <mxCell id="H_6kP9zhAVCkslabjDEE-15" value="&lt;b&gt;Game Designer&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1240" y="505" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H_6kP9zhAVCkslabjDEE-16" value="Confluence" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="1611" y="90" width="270" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="H_6kP9zhAVCkslabjDEE-17" value="When in Confluence appreace new description page it convert to Asana task with current author assigne and link in column &quot;In Progres&quot; for &lt;b&gt;PM &lt;/b&gt;or &lt;b&gt;Game Design&lt;/b&gt; review" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1611" y="290" width="270" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="H_6kP9zhAVCkslabjDEE-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="H_6kP9zhAVCkslabjDEE-16" target="H_6kP9zhAVCkslabjDEE-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1580" y="560" as="sourcePoint" />
+            <mxPoint x="1630" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H_6kP9zhAVCkslabjDEE-19" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;noLabel=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="2270" y="766" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H_6kP9zhAVCkslabjDEE-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.541;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="H_6kP9zhAVCkslabjDEE-17" target="oM6ZGW8Rz1AFaY1xYlf1-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1870" y="540" as="sourcePoint" />
+            <mxPoint x="1920" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2283" y="335" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H_6kP9zhAVCkslabjDEE-23" value="&lt;b&gt;Project Manager&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2253" y="840" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H_6kP9zhAVCkslabjDEE-24" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.544;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="H_6kP9zhAVCkslabjDEE-19" target="oM6ZGW8Rz1AFaY1xYlf1-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1870" y="540" as="sourcePoint" />
+            <mxPoint x="1920" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H_6kP9zhAVCkslabjDEE-25" value="&lt;i&gt;zapier sync&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="220" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
