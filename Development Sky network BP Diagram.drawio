@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-23T15:27:14.121Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="_HcObAlF6qtJ6RYjLphI" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-23T15:36:46.279Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="NsVrqgEGzr_PDhMAJJ6m" version="21.6.9" type="github">
   <diagram id="6IpWRTOvNhz4fQDFHxwE" name="Page-1">
-    <mxGraphModel dx="1206" dy="686" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1222" dy="702" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,10 +16,10 @@
         <mxCell id="fXu-zx2hqorw0dzWZYp2-85" value="Create &lt;b&gt;Task&lt;/b&gt;/&lt;b&gt;Bug &lt;/b&gt;in Asana (&lt;b&gt;Open/Backlog&lt;/b&gt;)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="1010" y="561" width="150" height="79" as="geometry" />
         </mxCell>
-        <mxCell id="fXu-zx2hqorw0dzWZYp2-95" value="&lt;b&gt;TeamLead &lt;/b&gt;in column &quot;&lt;b&gt;Ready for Testing&lt;/b&gt;&quot; prepare &quot;&lt;i&gt;&lt;u&gt;Releases notes&lt;/u&gt;&lt;/i&gt;&quot; which is shown in Slack channel and move all related tasks to testing." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" parent="1" vertex="1">
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-95" value="&lt;b&gt;TeamLead &lt;/b&gt;in column &quot;&lt;b&gt;Ready for Testing&lt;/b&gt;&quot; prepare &quot;&lt;i&gt;&lt;u&gt;Releases notes&lt;/u&gt;&lt;/i&gt;&quot; which is shown in Slack channel &quot;&lt;b&gt;Neostesia_builds&lt;/b&gt;&quot;." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="1640" y="540" width="230" height="81" as="geometry" />
         </mxCell>
-        <mxCell id="fXu-zx2hqorw0dzWZYp2-99" value="All the tasks from Prod release&amp;nbsp; moved to&lt;b&gt; &quot;Ready for testing&quot;&lt;/b&gt;&amp;nbsp;colums for&amp;nbsp;&lt;b&gt;Q&amp;amp;A &lt;/b&gt;testing." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;shadow=1;" parent="1" vertex="1">
+        <mxCell id="fXu-zx2hqorw0dzWZYp2-99" value="All the tasks from Production release&amp;nbsp; moved to&lt;b&gt; &quot;Ready for testing&quot;&lt;/b&gt;&amp;nbsp;column for&amp;nbsp;&lt;b&gt;Q&amp;amp;A &lt;/b&gt;testing." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="1640" y="690" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fXu-zx2hqorw0dzWZYp2-103" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1" target="fXu-zx2hqorw0dzWZYp2-99" source="fXu-zx2hqorw0dzWZYp2-95">
@@ -64,7 +64,7 @@
         <mxCell id="fXu-zx2hqorw0dzWZYp2-113" value="&lt;b&gt;no&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1650" y="991" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="dabtLC075DSBV3i54uBR-6" value="&lt;b&gt;Then Q&amp;amp;A moves tasks to &quot;In Testing&quot; (ASANA)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=1;" parent="1" vertex="1">
+        <mxCell id="dabtLC075DSBV3i54uBR-6" value="&lt;b&gt;Then Q&amp;amp;A moves tasks to &quot;In Testing&quot; column and start testing&amp;nbsp;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="1640" y="830" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dabtLC075DSBV3i54uBR-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="dabtLC075DSBV3i54uBR-6" target="fXu-zx2hqorw0dzWZYp2-105" edge="1">
@@ -94,7 +94,7 @@
             <mxPoint x="1540" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fvH_zeYFrna17FUwJxqy-5" value="Tasks which are planed for current prod Release are moved to column&lt;b&gt; &quot;To Development&quot; &lt;/b&gt;and&amp;nbsp; then to column&lt;b&gt; &quot;Doing&quot;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+        <mxCell id="fvH_zeYFrna17FUwJxqy-5" value="Tasks which are planed for current &lt;b&gt;Production Release&lt;/b&gt; are moved to column&lt;b&gt; &quot;To Development&quot; &lt;/b&gt;and&amp;nbsp; then to column&lt;b&gt; &quot;Doing&quot;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="1290" y="660" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fvH_zeYFrna17FUwJxqy-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fvH_zeYFrna17FUwJxqy-2" target="fvH_zeYFrna17FUwJxqy-5">
