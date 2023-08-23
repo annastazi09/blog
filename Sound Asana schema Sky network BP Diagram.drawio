@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T13:43:35.607Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="MDab9KhLYaDQGWjtTj1K" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-23T14:18:51.642Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="oQbN1teNCFSXyMSVJgHU" version="21.3.8" type="github">
   <diagram id="6IpWRTOvNhz4fQDFHxwE" name="Page-1">
-    <mxGraphModel dx="3148" dy="1788" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1103" dy="637" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,11 +31,11 @@
             <mxPoint x="-10" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aH7YUtAxmmMZdRpmc2YQ-5" value="&lt;b&gt;&lt;i&gt;Automatically from &quot;Ready for sound&quot; column to &quot;X loops&quot; column&lt;/i&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="716" y="410" width="230" height="30" as="geometry" />
+        <mxCell id="aH7YUtAxmmMZdRpmc2YQ-5" value="&lt;b&gt;&lt;i&gt;Appears from&amp;nbsp; &quot;Ready for sound&quot; column to&amp;nbsp; &quot;X loops&quot; column&lt;/i&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="730" y="410" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aH7YUtAxmmMZdRpmc2YQ-6" value="&lt;b&gt;&lt;i&gt;Automatically from &quot;Ready for sound&quot; column to &quot;To do&quot; column&lt;/i&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1398" y="410" width="230" height="30" as="geometry" />
+        <mxCell id="aH7YUtAxmmMZdRpmc2YQ-6" value="&lt;b&gt;&lt;i&gt;Appears from&amp;nbsp; &quot;Ready for sound&quot; column to&amp;nbsp; &quot;To do&quot; column&lt;/i&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1410" y="410" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aH7YUtAxmmMZdRpmc2YQ-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oM6ZGW8Rz1AFaY1xYlf1-1" target="aH7YUtAxmmMZdRpmc2YQ-1" edge="1">
           <mxGeometry relative="1" as="geometry">
