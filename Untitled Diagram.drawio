@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-09T15:14:23.068Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="s3v5KyZo9yTMt6MZ_8G_" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-09T15:17:09.802Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="woIjPeIAuoyOPFQACq4-" version="22.1.17" type="github">
   <diagram name="Page-1" id="NS8pDAE-hcMTIMihtxfz">
     <mxGraphModel dx="3122" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -184,10 +184,10 @@
             <mxPoint x="-940" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KHOT-lx1iBEE0z3jemg4-5" value="&lt;b&gt;requirements can be in&lt;/b&gt;:&lt;br&gt;- slack&lt;br&gt;- gdocs&lt;br&gt;- meeting notes&lt;br&gt;etc." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KHOT-lx1iBEE0z3jemg4-5" value="&lt;b&gt;requirements can be in&lt;/b&gt;:&lt;br&gt;- slack&lt;br&gt;- gdocs&lt;br&gt;- meeting notes&lt;br&gt;etc." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="-1040" width="200" height="117" as="geometry" />
         </mxCell>
-        <mxCell id="KHOT-lx1iBEE0z3jemg4-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KHOT-lx1iBEE0z3jemg4-6" value="&lt;b&gt;requirement be proceed in:&lt;/b&gt;&lt;br&gt;- Excell Gdoc,&lt;br&gt;- Miro" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="-665" y="60" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="KHOT-lx1iBEE0z3jemg4-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="KHOT-lx1iBEE0z3jemg4-3">
@@ -201,6 +201,15 @@
             <mxPoint x="-770" y="360" as="sourcePoint" />
             <mxPoint x="-720" y="310" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="KHOT-lx1iBEE0z3jemg4-9" value="&lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;1 step&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-940" y="155" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KHOT-lx1iBEE0z3jemg4-10" value="&lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;2 step&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-790" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KHOT-lx1iBEE0z3jemg4-11" value="&lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;3 step&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="170" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
