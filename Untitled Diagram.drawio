@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-10T11:59:09.499Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="xklNboJCoUfvQio48yRF" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-10T14:53:05.845Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="iNR6o7CrIM0AdSCLY2nF" version="22.1.17" type="github">
   <diagram name="Page-1" id="NS8pDAE-hcMTIMihtxfz">
-    <mxGraphModel dx="2053" dy="1742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2058" dy="1742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -147,7 +147,7 @@
         <mxCell id="FQVQUkdtEuEJuuCxDMSS-61" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="1831" y="284.5" width="39" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="KHOT-lx1iBEE0z3jemg4-2" value="&lt;b&gt;New game Requiremnts:&lt;/b&gt;&lt;br&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#6600cc&quot;&gt;Steackholders&lt;/font&gt;&lt;/b&gt;&lt;b&gt;:&lt;/b&gt;&lt;br&gt;Guy,&lt;br&gt;Olga,&lt;br&gt;Katarina,&lt;br&gt;Bogdan" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" vertex="1" parent="1">
+        <mxCell id="KHOT-lx1iBEE0z3jemg4-2" value="&lt;b&gt;New game Requiremnts:&lt;/b&gt;&lt;br&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#6600cc&quot;&gt;Steackholders&lt;/font&gt;&lt;/b&gt;&lt;b&gt;:&lt;/b&gt;&lt;br&gt;Guy,&lt;br&gt;Olga,&lt;br&gt;Katarina,&lt;br&gt;Bogdan,&lt;br&gt;Robert,&lt;br&gt;Ana&lt;br&gt;" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" vertex="1" parent="1">
           <mxGeometry x="-810" y="5" width="220" height="220" as="geometry" />
         </mxCell>
         <mxCell id="KHOT-lx1iBEE0z3jemg4-3" value="&lt;b&gt;Proceed requirements:&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-weight: bold;&quot; color=&quot;#7f00ff&quot;&gt;Steackholders:&lt;br&gt;&lt;/font&gt;Robert,&lt;br&gt;Ana" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
@@ -159,7 +159,7 @@
             <mxPoint x="-700" y="-80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KHOT-lx1iBEE0z3jemg4-5" value="&lt;b&gt;requirements can be in&lt;/b&gt;:&lt;br&gt;- slack&lt;br&gt;- gdocs&lt;br&gt;- meeting notes&lt;br&gt;etc." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="KHOT-lx1iBEE0z3jemg4-5" value="&lt;b&gt;requirements can be in&lt;/b&gt;:&lt;br&gt;- slack&lt;br&gt;- gdocs&lt;br&gt;- meeting notes&lt;br&gt;- Confluence&lt;br&gt;etc." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="-800" y="-200" width="200" height="117" as="geometry" />
         </mxCell>
         <mxCell id="KHOT-lx1iBEE0z3jemg4-6" value="&lt;b&gt;requirement be proceed in:&lt;/b&gt;&lt;br&gt;- Excell Gdoc,&lt;br&gt;- Miro" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
@@ -207,20 +207,20 @@
         <mxCell id="KHOT-lx1iBEE0z3jemg4-16" value="&lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;5 step&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="-35" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KHOT-lx1iBEE0z3jemg4-17" value="&lt;b&gt;Lead Game Designer manage&lt;/b&gt;:&lt;br&gt;1. Main (with all epics)&amp;nbsp; [Design, Sound, Narrative] board (removed)&lt;br&gt;2. Game design board&lt;br&gt;3. Sound board (need to be discussed)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
+        <mxCell id="KHOT-lx1iBEE0z3jemg4-17" value="&lt;b&gt;Lead Game Designer manage&lt;/b&gt;:&lt;br&gt;1.Game design board&lt;br&gt;&lt;b&gt;review&lt;/b&gt;: Sound board , Illustrators board" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
           <mxGeometry x="330" y="-297.5" width="495" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KHOT-lx1iBEE0z3jemg4-20" value="&lt;b&gt;Art Director manage&amp;nbsp;&lt;/b&gt;3 teams:&lt;br&gt;1. Main (with all epics)&amp;nbsp; [Art Direction Board] board&lt;br&gt;2. Illustrators board&lt;br&gt;3. Animation/Animation_hub boards" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="840" y="-300" width="440" height="60" as="geometry" />
+        <mxCell id="KHOT-lx1iBEE0z3jemg4-20" value="&lt;b&gt;Art Director manage&amp;nbsp;&lt;/b&gt;3 teams:&lt;br&gt;1. Main (with all epics)&amp;nbsp; [Art Direction Board] board&lt;br&gt;2. Illustrators board&lt;br&gt;3. Animation/Animation_hub boards&lt;br&gt;&lt;b&gt;review&lt;/b&gt;: Sound board" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="840" y="-311.5" width="440" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="KHOT-lx1iBEE0z3jemg4-21" value="&lt;b&gt;PM manage&amp;nbsp;&lt;/b&gt;3 boards:&lt;br&gt;1. Main (with all epics)&amp;nbsp; [Managment board&lt;br&gt;2. Development board&lt;br&gt;3. Translation board" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="-297.5" width="910" height="60" as="geometry" />
+        <mxCell id="KHOT-lx1iBEE0z3jemg4-21" value="&lt;b&gt;PM manage 4&lt;/b&gt;&amp;nbsp;boards:&lt;br&gt;1. Main (with all epics)&amp;nbsp; [Managment board&lt;br&gt;2. Development board&lt;br&gt;3. Translation board&lt;br&gt;4.Sound&lt;br&gt;&lt;b&gt;observing&lt;/b&gt;:all the boards to meet deadlines" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="-320" width="910" height="90" as="geometry" />
         </mxCell>
         <mxCell id="KHOT-lx1iBEE0z3jemg4-22" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelBackgroundColor=none;fillColor=default;gradientColor=#ea6b66;strokeColor=#b85450;noLabel=1;" vertex="1" parent="1">
           <mxGeometry x="1320" y="-357.5" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KHOT-lx1iBEE0z3jemg4-23" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;noLabel=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="-353.5" width="30" height="60" as="geometry" />
+          <mxGeometry x="330" y="-348.5" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KHOT-lx1iBEE0z3jemg4-24" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;noLabel=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="-360" width="30" height="60" as="geometry" />
@@ -228,7 +228,7 @@
         <mxCell id="KHOT-lx1iBEE0z3jemg4-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="KHOT-lx1iBEE0z3jemg4-28" target="FQVQUkdtEuEJuuCxDMSS-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KHOT-lx1iBEE0z3jemg4-28" value="&amp;nbsp;need to be discussed&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;gradientColor=#ffd966;" vertex="1" parent="1">
+        <mxCell id="KHOT-lx1iBEE0z3jemg4-28" value="we will use dealines according to Art deadlines" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;gradientColor=#ffd966;" vertex="1" parent="1">
           <mxGeometry x="370" y="-108" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KHOT-lx1iBEE0z3jemg4-29" value="&lt;b&gt;Game Design/Sound deadlines&amp;nbsp;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -287,13 +287,13 @@
         <mxCell id="KHOT-lx1iBEE0z3jemg4-51" value="&lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;7 step&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="-470" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KHOT-lx1iBEE0z3jemg4-52" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.16;exitY=0.016;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="KHOT-lx1iBEE0z3jemg4-14">
+        <mxCell id="KHOT-lx1iBEE0z3jemg4-52" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.16;exitY=0.016;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.43;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KHOT-lx1iBEE0z3jemg4-14" target="KHOT-lx1iBEE0z3jemg4-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-60" y="-300" as="sourcePoint" />
-            <mxPoint x="1712.9630533854167" y="-300" as="targetPoint" />
+            <mxPoint x="1710" y="-320" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-35" y="-600" />
-              <mxPoint x="1713" y="-600" />
+              <mxPoint x="1710" y="-600" />
             </Array>
           </mxGeometry>
         </mxCell>
