@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-10T15:03:21.619Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="-K4U6Gu4TrMhPBxwNIO1" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-10T15:56:42.424Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="JrRLkjX-USsefOXE6x33" version="22.1.17" type="github">
   <diagram name="Page-1" id="NS8pDAE-hcMTIMihtxfz">
-    <mxGraphModel dx="1971" dy="1696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2714" dy="1796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -147,7 +147,7 @@
         <mxCell id="FQVQUkdtEuEJuuCxDMSS-61" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="1831" y="284.5" width="39" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="KHOT-lx1iBEE0z3jemg4-2" value="&lt;b&gt;New game Requiremnts:&lt;/b&gt;&lt;br&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#6600cc&quot;&gt;Steackholders&lt;/font&gt;&lt;/b&gt;&lt;b&gt;:&lt;/b&gt;&lt;br&gt;Guy,&lt;br&gt;Olga,&lt;br&gt;Katarina,&lt;br&gt;Bogdan,&lt;br&gt;Robert,&lt;br&gt;Ana&lt;br&gt;" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" vertex="1" parent="1">
+        <mxCell id="KHOT-lx1iBEE0z3jemg4-2" value="&lt;b&gt;New game Requiremnts:&lt;/b&gt;&lt;br&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#6600cc&quot;&gt;Steackholders&lt;/font&gt;&lt;/b&gt;&lt;b&gt;:&lt;/b&gt;&lt;br&gt;&lt;b&gt;Guy,&lt;br&gt;Olga,&lt;br&gt;Katarina&lt;/b&gt;,&lt;br&gt;Bogdan,&lt;br&gt;Robert,&lt;br&gt;Ana" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" vertex="1" parent="1">
           <mxGeometry x="-810" y="5" width="220" height="220" as="geometry" />
         </mxCell>
         <mxCell id="KHOT-lx1iBEE0z3jemg4-3" value="&lt;b&gt;Proceed requirements:&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-weight: bold;&quot; color=&quot;#7f00ff&quot;&gt;Steackholders:&lt;br&gt;&lt;/font&gt;Robert,&lt;br&gt;Ana" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
@@ -195,7 +195,7 @@
         <mxCell id="KHOT-lx1iBEE0z3jemg4-13" value="&lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;4 step&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-180" y="89.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KHOT-lx1iBEE0z3jemg4-14" value="&lt;b&gt;1.PM &lt;/b&gt;created general Epics in Asana [&lt;b&gt;Managment&lt;/b&gt;] which will linked to all releated tasks and internal epics in the other teams. &lt;br&gt;&lt;b&gt;2.Game Design [Design]&amp;nbsp;&lt;/b&gt;create tasks in their boards.&lt;br&gt;&lt;b&gt;3. Art director&amp;nbsp;[Art direction]&lt;/b&gt; create tasks in their boards" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="KHOT-lx1iBEE0z3jemg4-14" value="&lt;b&gt;1.PM &lt;/b&gt;created general Epics in Asana [&lt;b&gt;Managment&lt;/b&gt;] which will linked to all releated tasks and internal epics in the other teams. &lt;br&gt;&lt;b&gt;2.Game Design [Design]&amp;nbsp;&lt;/b&gt;create tasks in their board.&lt;br&gt;&lt;b&gt;3. Art director&amp;nbsp;[Art direction]&lt;/b&gt; create tasks in their boards" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="-85" y="-190" width="310" height="145" as="geometry" />
         </mxCell>
         <mxCell id="KHOT-lx1iBEE0z3jemg4-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="FQVQUkdtEuEJuuCxDMSS-26" target="KHOT-lx1iBEE0z3jemg4-14">
@@ -207,10 +207,10 @@
         <mxCell id="KHOT-lx1iBEE0z3jemg4-16" value="&lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;5 step&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="-35" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KHOT-lx1iBEE0z3jemg4-17" value="&lt;b&gt;Lead Game Designer manage&lt;/b&gt;:&lt;br&gt;1.Game design board&lt;br&gt;&lt;b&gt;review&lt;/b&gt;: Sound board , Illustrators board" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
+        <mxCell id="KHOT-lx1iBEE0z3jemg4-17" value="&lt;b&gt;Lead Game Designer manage&lt;/b&gt;:&lt;br&gt;1.Game design board&lt;br&gt;&lt;b&gt;review&lt;/b&gt;: Game design board&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
           <mxGeometry x="330" y="-320" width="495" height="82.5" as="geometry" />
         </mxCell>
-        <mxCell id="KHOT-lx1iBEE0z3jemg4-20" value="&lt;b&gt;Art Director manage&amp;nbsp;&lt;/b&gt;3 teams:&lt;br&gt;1. Main (with all epics)&amp;nbsp; [Art Direction Board] board&lt;br&gt;2. Illustrators board&lt;br&gt;3. Animation/Animation_hub boards&lt;br&gt;&lt;b&gt;review&lt;/b&gt;: Sound board" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="KHOT-lx1iBEE0z3jemg4-20" value="&lt;b&gt;Art Director manage&amp;nbsp;&lt;/b&gt;3 teams:&lt;br&gt;1. Main (with all epics)&amp;nbsp; [Art Direction Board] board&lt;br&gt;2. Illustrators board&lt;br&gt;3. Animation/Animation_hub boards&lt;br&gt;&lt;b&gt;review&lt;/b&gt;: Illustators, Animators boards&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="840" y="-330" width="440" height="88.5" as="geometry" />
         </mxCell>
         <mxCell id="KHOT-lx1iBEE0z3jemg4-21" value="&lt;b&gt;PM manage 4&lt;/b&gt;&amp;nbsp;boards:&lt;br&gt;1. Main (with all epics)&amp;nbsp; [Managment board&lt;br&gt;2. Development board&lt;br&gt;3. Translation board&lt;br&gt;4.Sound&lt;br&gt;&lt;b&gt;reviewing&amp;nbsp;&lt;/b&gt;all the boards to meet deadlines" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
@@ -220,7 +220,7 @@
           <mxGeometry x="1320" y="-370" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KHOT-lx1iBEE0z3jemg4-23" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;noLabel=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="-360" width="30" height="60" as="geometry" />
+          <mxGeometry x="330" y="-361" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KHOT-lx1iBEE0z3jemg4-24" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;noLabel=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="-370" width="30" height="60" as="geometry" />
